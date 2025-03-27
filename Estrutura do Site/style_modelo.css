@@ -1,0 +1,21 @@
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 15px 1px;
+    background: #d4c5eb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.navbar a {
+    font-size: 18px;
+    color: #6364a1;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 40px;
+}
